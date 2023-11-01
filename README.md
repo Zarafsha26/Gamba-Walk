@@ -1,4 +1,5 @@
 # Gamba-Walk
+
 ## Definition:
 - The word "Gemba" is Japanese for "the real place." In business, it typically refers to the place where value is added, such as the manufacturing floor in a factory or the sales floor in a retail environment. A "Gemba Walk" involves managers and leaders going to the actual place, observing the work processes, and asking questions to understand the current state of affairs and identify opportunities for improvement.
 
